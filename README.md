@@ -1,6 +1,6 @@
 # HelloWorldMCP
 
-A small **Hello World** to get me started in the world of **Model Context Protocols (MCP)**. 
+A small **Hello World** to get me started with Model Context Protocol (MCP) servers.
 
 This minimal example sets up a simple MCP server using the [python-sdk](https://github.com/modelcontextprotocol/python-sdk) and responds with a greeting whenever a tool is called.
 Used https://github.com/modelcontextprotocol/python-sdk/blob/main/examples/servers/simple-streamablehttp-stateless as a template.
